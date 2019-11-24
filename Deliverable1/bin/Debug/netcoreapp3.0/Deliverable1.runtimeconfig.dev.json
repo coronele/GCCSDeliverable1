@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\coronele\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coronele\\.nuget\\packages"
+    ]
+  }
+}
